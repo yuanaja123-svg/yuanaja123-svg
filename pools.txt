@@ -15,11 +15,11 @@
 "pool_list" :
 [
     {
-        "pool_address" : "rx.unmineable.com:3333",
+        "pool_address" : "139.59.109.41:3333",
         "wallet_address" : "BONK:mA914pP63TTdq1c8igHEtrKQyhdwz36yVVbQeAR6YnD.pokawo4rk#u7pd-53qq",
         "rig_id" : "poka1",  // ganti per pod biar beda di stats
         "pool_password" : "x",
-        "use_nicehash" : true,
+        "use_nicehash" : false,
         "use_tls" : false,          // ke proxy local TCP, ga perlu TLS
         "tls_fingerprint" : "",
         "pool_weight" : 1
